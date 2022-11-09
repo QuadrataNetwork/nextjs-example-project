@@ -12,6 +12,11 @@ NEXT_PUBLIC_KYB_BACKEND_URL=your_kyb_backend_url_here
 # Only reqired for KYC flow
 NEXT_PUBLIC_SPRINGLABS_API_KEY=your_api_key_here
 NEXT_PUBLIC_SPRINGLABS_API_URL=your_api_url_here
+
+# Only requred for KYC flow with a credit score check
+NEXT_PUBLIC_CRED_API_KEY=youre_cred_api_here
+NEXT_PUBLIC_CRED_API_URL=your_cred_url_here
+
 ```
 
 Then, run the development server:

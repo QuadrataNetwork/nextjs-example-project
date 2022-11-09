@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@quadrata/contracts": "^0.2.9",
-    "@quadrata/kyb-react": "^0.0.7",
-    "@quadrata/kyc-react": "^0.4.1",
+    "@quadrata/kyb-react": "^0.0.8",
+    "@quadrata/kyc-react": "^1.0.0",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0"
